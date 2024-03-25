@@ -1,0 +1,4 @@
+aioredis
+aiomysql
+pystrix
+asyncio
